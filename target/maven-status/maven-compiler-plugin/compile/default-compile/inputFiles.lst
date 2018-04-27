@@ -1,0 +1,7 @@
+/Users/zmy/Documents/Code/spring/starter/recaptcha-spring-boot-starter/src/main/java/com/zmy/recaptchaspringbootstarter/autoconfig/autoconfig/RecaptchaProperties.java
+/Users/zmy/Documents/Code/spring/starter/recaptcha-spring-boot-starter/src/main/java/com/zmy/recaptchaspringbootstarter/autoconfig/exception/RecaptchaException.java
+/Users/zmy/Documents/Code/spring/starter/recaptcha-spring-boot-starter/src/main/java/com/zmy/recaptchaspringbootstarter/autoconfig/autoconfig/RecaptchaAutoConfiguration.java
+/Users/zmy/Documents/Code/spring/starter/recaptcha-spring-boot-starter/src/main/java/com/zmy/recaptchaspringbootstarter/autoconfig/service/RecaptchaTemplate.java
+/Users/zmy/Documents/Code/spring/starter/recaptcha-spring-boot-starter/src/main/java/com/zmy/recaptchaspringbootstarter/autoconfig/entity/RecaptchaResponse.java
+/Users/zmy/Documents/Code/spring/starter/recaptcha-spring-boot-starter/src/main/java/com/zmy/recaptchaspringbootstarter/autoconfig/util/HttpClientUtil.java
+/Users/zmy/Documents/Code/spring/starter/recaptcha-spring-boot-starter/src/main/java/com/zmy/recaptchaspringbootstarter/autoconfig/entity/ErrorCode.java
