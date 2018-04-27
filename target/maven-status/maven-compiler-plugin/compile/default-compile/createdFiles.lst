@@ -1,7 +1,0 @@
-com/zmy/recaptchaspringbootstarter/autoconfig/autoconfig/RecaptchaAutoConfiguration.class
-com/zmy/recaptchaspringbootstarter/autoconfig/autoconfig/RecaptchaProperties.class
-com/zmy/recaptchaspringbootstarter/autoconfig/entity/RecaptchaResponse.class
-com/zmy/recaptchaspringbootstarter/autoconfig/exception/RecaptchaException.class
-com/zmy/recaptchaspringbootstarter/autoconfig/service/RecaptchaTemplate.class
-com/zmy/recaptchaspringbootstarter/autoconfig/util/HttpClientUtil.class
-com/zmy/recaptchaspringbootstarter/autoconfig/entity/ErrorCode.class
