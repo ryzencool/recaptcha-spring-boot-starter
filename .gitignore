@@ -11,7 +11,7 @@
 .sts4-cache
 
 ### IntelliJ IDEA ###
-.idea
+.idea/
 *.iws
 *.iml
 *.ipr
@@ -19,6 +19,8 @@ mvnw
 *.cmd
 .mvn/
 target/
+workspace.xml
+.gitignore
 
 ### NetBeans ###
 /nbproject/private/
