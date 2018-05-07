@@ -9,3 +9,7 @@
 </dependency>
 ```
 
+#### 使用方法：
+
+在springboot项目中导入上面的starter，在application.properties里面配置好
+
